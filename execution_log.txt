@@ -1,0 +1,20 @@
+CUDA IMAGE PROCESSING PROJECT - EXECUTION RESULTS
+
+GPU: NVIDIA L4
+Input images: 100
+Image resolution: 512 x 512
+Grayscale outputs: 100
+Gaussian blur outputs: 100
+Sobel edge detection outputs: 100
+Total output images: 300
+
+Processing completed successfully!
+
+Recorded execution time: 5.05758 seconds
+
+Output folders:
+- grayscale
+- blur
+- edges
+
+All 100 input images were processed successfully using CUDA kernels.
