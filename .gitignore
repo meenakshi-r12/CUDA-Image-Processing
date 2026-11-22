@@ -1,0 +1,4 @@
+image_processor
+*.o
+*.out
+__pycache__/
